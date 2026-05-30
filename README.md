@@ -14,15 +14,6 @@ I enjoy working with data to extract insights, build dashboards and support data
 - **Databases:** Relational databases, data modeling
 - **Tools:** Git, GitHub, Excel
 
-## Featured Projects
-
-### Data Management Final Project
-Design and implementation of an analytical environment focused on customer analytics.  
-The project includes data modeling, ETL processes, Customer Lifetime Value analysis, PCA and clustering for customer segmentation.
-
-### DeNexus Cybersecurity Data Analysis
-Data analytics and machine learning project focused on global cyber incidents.  
-Applied supervised and unsupervised learning techniques and developed dashboards to identify patterns and extract relevant insights.
 
 ## Currently Learning
 

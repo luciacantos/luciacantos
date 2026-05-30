@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Lucía Cantos Burgos
 
 Mathematical Engineering student interested in **Data Analytics**, **Business Intelligence** and **Machine Learning**.
@@ -31,8 +31,4 @@ Applied supervised and unsupervised learning techniques and developed dashboards
 - Machine Learning model evaluation
 - Data storytelling
 
-## Contact
 
-- GitHub: [luciacantos](https://github.com/luciacantos)
-- LinkedIn: add your LinkedIn URL here
-```

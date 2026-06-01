@@ -3,8 +3,7 @@
 
 Mathematical Engineering student interested in **Data Analytics**, **Business Intelligence** and **Machine Learning**.
 
-I enjoy working with data to extract insights, build dashboards and support data-driven decision making. I am currently looking for my first internship opportunity as a **Data Analyst**.
-
+I enjoy working with data to extract insights, build dashboards and support data-driven decision making. 
 ## Technical Skills
 
 - **Programming:** Python, SQL
